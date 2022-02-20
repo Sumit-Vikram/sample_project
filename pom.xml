@@ -8,9 +8,9 @@
   <name>my-app</name>
   <distributionManagement>
     <repository>
-      <id>com-sample-test-maven-central-store</id>
-      <name>com-sample-test-maven-central-store</name>
-      <url>https://com-sample-test-426996824299.d.codeartifact.us-east-1.amazonaws.com/maven/maven-central-store/</url>
+      <id>com-sample-project-my-repo</id>
+      <name>com-sample-project-my-repo</name>
+      <url>https://com-sample-project-426996824299.d.codeartifact.eu-west-1.amazonaws.com/maven/my-repo/</url>
     </repository>
   </distributionManagement>
   <dependencies>
